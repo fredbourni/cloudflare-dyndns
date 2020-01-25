@@ -11,10 +11,10 @@ similar to the classic [ddclient perl script](https://sourceforge.net/p/ddclient
 
 
 ## Install
-You can install dependencies with poetry (preferable in a virtualenv).  
-After [installing poetry](https://poetry.eustace.io/docs/#installation), simply run:  
+You can install dependencies with pip (preferable in a virtualenv).  
+
 ```bash
-$ poetry install
+$ pip install -r requirements.txt
 ```
 
 

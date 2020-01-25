@@ -1,1 +1,3 @@
 cfdns.cache
+.venv/
+.idea/
